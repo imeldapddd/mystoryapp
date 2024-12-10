@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Temukan Cerita Unik Di Aplikasi Story App!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Isi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagai cerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Membaca Ceritaku.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+
+    <string name="judul">Judul Cerita</string>
+    <string name="deskripsi">Deskripsi Cerita</string>
+    <string name="image_description">image</string>
+
+    <string name="tambah">Tambahkan Deskripsi Cerita Anda...</string>
+    <string name="galerry">Galeri</string>
+    <string name="foto">Kamera</string>
+    <string name="save">Simpan Cerita</string>
+    <string name="add">tambah</string>
+
+    <string name="keluar">Keluar</string>
+    <string name="jdlapp">Aplikasi Story</string>
+
+</resources>
